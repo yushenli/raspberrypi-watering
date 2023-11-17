@@ -1,9 +1,9 @@
 [
     {
         "name": "Plant1",
-        "interval_second": 20,
-        "interval_supply_second": 1,
-        "max_supply_second_per_day": 2,
+        "interval_second": 3600,
+        "interval_supply_second": 15,
+        "max_supply_second_per_day": 30,
         "pump_relay_pin_number": 17
     }
 ]
